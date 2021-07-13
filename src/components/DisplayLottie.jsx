@@ -12,6 +12,7 @@ const GreetingLottie = ({animationData}) => {
     return (
         <Suspense fallback={<Loading />}>
           {/* To override default onClick pause by Lottie */}
+          {/* To override default onClick pause by Lottie */}
           <div onClick={() => null}>
             <Lottie 
               options={defaultOptions}
