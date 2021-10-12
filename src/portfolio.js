@@ -126,7 +126,7 @@ export const educationInfo = [
     {
       schoolName: 'DNR College of Engineering',
       subHeader: 'Computer Science & Engineering',
-      duration: '[June 2019- April 2022]',
+      duration: 'June 2019- April 2022',
       // desc: 'Participated in the research of XXX and published 3 papers.',
       // descBullets: [
       //   'Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit',
@@ -136,7 +136,7 @@ export const educationInfo = [
     {
       schoolName: 'SMT.B.Seetha Polytechnic',
       subHeader: 'Diploma in Computer Science',
-      duration: '[June 2016 - April 2019]',
+      duration: 'June 2016 - April 2019',
       // desc: 'Participated in the research of XXX and published 3 papers.',
       // descBullets: [
       //   'Lorem ipsum dolor sit amet, consectetfgur adipiscing elit',
@@ -146,7 +146,7 @@ export const educationInfo = [
     {
       schoolName: 'K.V.L.P.Z.P.High School',
       subHeader: 'Secondary School Education',
-      duration: '[June 2015 - April 2016]',
+      duration: 'June 2015 - April 2016',
       // desc:
       //   'Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...',
       // descBullets: ['Lorem ipsum dolorfdg sit amet, consectetur adipiscing elit'],
