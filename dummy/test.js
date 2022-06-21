@@ -1,7 +1,7 @@
 let email = document.getElementById('email');
 let pass = document.getElementById('password');
 
-function submitForm() {
+function submitForms() {
     if (email.value == '' && pass.value == '') {
         alert('email & password is compulsory');
     } else if (email.value == '' && pass.value != '') {
