@@ -174,7 +174,7 @@ export const projects = [
     desc: "The whole project is all about live hospital beds availability and plasma availability at Andhra Pradesh. And you can also register as a blood donor or plasma donor.",
     link: {
       name: "See Demo",
-      url: "https://www.needap.in/"
+      url: "https://needapin.vercel.app/"
     }
   },
   {
