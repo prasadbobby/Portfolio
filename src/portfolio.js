@@ -8,7 +8,7 @@ export const greetings = {
     "name": "Prasad Bobby",
     "title": "Hi all, I'm Bobby",
     "description": "A passionate Full Stack Web Developer and DevOps Engineer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Expressjs / PHP and some other cool libraries and frameworks.",
-    "resumeLink": "https://drive.google.com/file/d/1iVw7vTK-zzMP9_-En1QP2uBuGf-jy5Ue/view?usp=sharing"
+    "resumeLink": "https://drive.google.com/file/d/1OXmKhOcaScE4xfAyXEysCzC0CcAmOhr0/view?usp=sharing"
 }
 
 export const openSource = {
